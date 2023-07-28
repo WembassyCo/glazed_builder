@@ -1,0 +1,23 @@
+{
+    "name": "wembassyco/glazed_builder",
+    "description": "Glazed Page builder theme for Drupal 9.",
+    "type": "drupal-module",
+    "license": "MIT",
+    "repositories": {
+        "assets": {
+            "0": {
+                "type": "composer",
+                "url": "https://packages.drupal.org/8"
+            }
+        }
+    },
+    "authors": [
+        {
+            "name": "Chris McIntosh",
+            "email": "cmcintosh@wembassy.com"
+        }
+    ],
+    "require": {
+        "drupal/bootstrap": "^3.24"
+    }
+}
