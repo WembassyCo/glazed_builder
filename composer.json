@@ -3,8 +3,8 @@
     "description": "Glazed Page builder theme for Drupal 9.",
     "type": "drupal-module",
     "license": "MIT",
-    "repositories": {
-        "assets": {
+    "assets": {
+        "repositories": {
             "0": {
                 "type": "composer",
                 "url": "https://packages.drupal.org/8"
